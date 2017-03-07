@@ -1,7 +1,10 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="apandalang.github.io" resolutions="1x" timestamp="1488864777384">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="apandalang.github.io" resolutions="1x,2x" timestamp="1488874246939">
+  <folder name="assets">
+    <file name="resumepw.pdf" crc="275006648" seo="true" mt="1488867332000"/>
+  </folder>
   <folder name="css">
-    <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="162473765" ref="index"/>
+    <file name="site_global.css" crc="4158759684"/>
+    <file name="index.css" crc="427081695" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -20,30 +23,89 @@
     <file name="form_throttle.php" crc="4048049783" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="lightofeight.jpg" crc="3839510192" seo="true" ref="index">
+    <file name="lightofeight1440x797.jpg" crc="4021619490" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="layer 0.png" crc="4022003238" seo="true" ref="index">
+    <file name="lightofeight1440x797_2x.jpg" crc="376812694" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="signature!.png" crc="4010529615" seo="true" ref="index">
+    <file name="layer 0320x320.png" crc="188060959" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="university_of_maryland_sealsvg.png" crc="4066728055" seo="true" ref="index">
+    <file name="layer 0_2x.png" crc="427679351" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="cloudzz.png" crc="3991403435" seo="true" ref="index">
+    <file name="signature!261x261.png" crc="3807123610" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="iconmonstr-email-10-240 (1).png" crc="4089528216" seo="true" ref="index">
+    <file name="signature!_2x.png" crc="435701764" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="iconmonstr-linkedin-4-240 (2).png" crc="439205703" seo="true" ref="index">
+    <file name="university_of_maryland_sealsvg267x267.png" crc="340882493" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="das me2.png" crc="129157082" seo="true" ref="index">
+    <file name="university_of_maryland_sealsvg_2x.png" crc="3866960343" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cloudzz1440x331.png" crc="3989772883" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cloudzz_2x.png" crc="325668860" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="glenn rhee c2.jpg" crc="296307292" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="glenn rhee c2_2x.jpg" crc="4289839860" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="carol peletierc 1.jpg" crc="3919276152" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="carol peletierc 1_2x.jpg" crc="4024369892" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nano2.jpg" crc="4235412038" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nano2_2x.jpg" crc="3910820435" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="glenn rhee c2-crop-u2296.jpg" crc="3856213449" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="glenn rhee c2-crop-u2296_2x.jpg" crc="219601879" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="carol peletierc 1-crop-u2405.jpg" crc="445442228" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="carol peletierc 1-crop-u2405_2x.jpg" crc="425629830" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nano2106x81.jpg" crc="3821044169" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nano2106x81_2x.jpg" crc="236752325" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="das me2783x410.png" crc="129157082" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iconmonstr-email-10-240 (1)95x95.png" crc="4275794797" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iconmonstr-email-10-240 (1)_2x.png" crc="37117609" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iconmonstr-linkedin-4-240 (2)95x95.png" crc="394656618" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iconmonstr-linkedin-4-240 (2)_2x.png" crc="297215590" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4141941128" seo="true" mt="1488864737302" redirect="true"/>
+  <file name="index.html" crc="497910837" seo="true" mt="1488874090930" redirect="true"/>
 </manifest>

@@ -6,28 +6,91 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://apandalang.github.io/images/lightofeight.jpg</image:loc>
+      <image:loc>http://apandalang.github.io/images/lightofeight1440x797.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://apandalang.github.io/images/layer%200.png</image:loc>
+      <image:loc>http://apandalang.github.io/images/lightofeight1440x797_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://apandalang.github.io/images/signature!.png</image:loc>
+      <image:loc>http://apandalang.github.io/images/layer%200320x320.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://apandalang.github.io/images/university_of_maryland_sealsvg.png</image:loc>
+      <image:loc>http://apandalang.github.io/images/layer%200_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://apandalang.github.io/images/cloudzz.png</image:loc>
+      <image:loc>http://apandalang.github.io/images/signature!261x261.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://apandalang.github.io/images/iconmonstr-email-10-240%20(1).png</image:loc>
+      <image:loc>http://apandalang.github.io/images/signature!_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://apandalang.github.io/images/iconmonstr-linkedin-4-240%20(2).png</image:loc>
+      <image:loc>http://apandalang.github.io/images/university_of_maryland_sealsvg267x267.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://apandalang.github.io/images/das%20me2.png</image:loc>
+      <image:loc>http://apandalang.github.io/images/university_of_maryland_sealsvg_2x.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://apandalang.github.io/images/cloudzz1440x331.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://apandalang.github.io/images/cloudzz_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://apandalang.github.io/images/glenn%20rhee%20c2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://apandalang.github.io/images/glenn%20rhee%20c2_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://apandalang.github.io/images/carol%20peletierc%201.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://apandalang.github.io/images/carol%20peletierc%201_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://apandalang.github.io/images/nano2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://apandalang.github.io/images/nano2_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://apandalang.github.io/images/glenn%20rhee%20c2-crop-u2296.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://apandalang.github.io/images/glenn%20rhee%20c2-crop-u2296_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://apandalang.github.io/images/carol%20peletierc%201-crop-u2405.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://apandalang.github.io/images/carol%20peletierc%201-crop-u2405_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://apandalang.github.io/images/nano2106x81.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://apandalang.github.io/images/nano2106x81_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://apandalang.github.io/images/das%20me2783x410.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://apandalang.github.io/images/iconmonstr-email-10-240%20(1)95x95.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://apandalang.github.io/images/iconmonstr-email-10-240%20(1)_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://apandalang.github.io/images/iconmonstr-linkedin-4-240%20(2)95x95.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://apandalang.github.io/images/iconmonstr-linkedin-4-240%20(2)_2x.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://apandalang.github.io/assets/resumepw.pdf</loc>
+    <lastmod>2017-03-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
