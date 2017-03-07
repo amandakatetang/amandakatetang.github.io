@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="apandalang.github.io" resolutions="1x,2x" timestamp="1488874876907">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="apandalang.github.io" resolutions="1x,2x" timestamp="1488875099032">
   <folder name="assets">
     <file name="resumepw.pdf" crc="275006648" seo="true" mt="1488867332000"/>
   </folder>
