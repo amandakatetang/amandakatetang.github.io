@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://apandalang.github.io/index.html</loc>
+    <lastmod>2017-03-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://apandalang.github.io/images/lightofeight.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://apandalang.github.io/images/layer%200.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://apandalang.github.io/images/signature!.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://apandalang.github.io/images/university_of_maryland_sealsvg.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://apandalang.github.io/images/cloudzz.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://apandalang.github.io/images/iconmonstr-email-10-240%20(1).png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://apandalang.github.io/images/iconmonstr-linkedin-4-240%20(2).png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://apandalang.github.io/images/das%20me2.png</image:loc>
+    </image:image>
+  </url>
+</urlset>

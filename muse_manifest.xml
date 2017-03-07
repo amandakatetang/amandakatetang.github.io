@@ -1,0 +1,48 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="apandalang.github.io" resolutions="1x" timestamp="1488864009895">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="218261914" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4232573551" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4152223963" ref="index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
+    <file name="webpro.js" crc="3770351119" ref="index"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index"/>
+    <file name="form_check.php" crc="218939094" ref="index"/>
+    <file name="form_process.php" crc="238541442" ref="index"/>
+    <file name="form-u1363.php" crc="322630061" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="lightofeight.jpg" crc="3839510192" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="layer 0.png" crc="4022003238" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="signature!.png" crc="4010529615" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="university_of_maryland_sealsvg.png" crc="4066728055" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cloudzz.png" crc="3991403435" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iconmonstr-email-10-240 (1).png" crc="4089528216" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iconmonstr-linkedin-4-240 (2).png" crc="439205703" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="das me2.png" crc="129157082" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="81275112" seo="true" mt="1488863572841" redirect="true"/>
+</manifest>
